@@ -1,0 +1,8 @@
+include ':simplefrogmentapp'
+include ':sistemintentdate'
+include ':resultactivity'
+include ':share'
+include ':myapplication'
+include ':intentapp'
+include ':app'
+rootProject.name = "ru.mirea.shandykowa.3"
